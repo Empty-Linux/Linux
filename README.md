@@ -49,7 +49,9 @@ QA Engineer. Тестирование REST API и микросервисов.
 Контакты
 
 Email: richi01022025@gmail.com
+
 GitHub: github.com/Empty-Linux
+
 Telegram: @hacker10101001
 
 <!--
